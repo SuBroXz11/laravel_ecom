@@ -18,3 +18,4 @@ class HomeController extends Controller
         return redirect()->route('admin.login');
     }
 }
+// #4 Admin panel configuration started
